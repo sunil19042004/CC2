@@ -1,0 +1,26 @@
+
+#h{
+  font-size: xx-large;
+  font-style: oblique;
+  background-color: rgb(166, 253, 253);
+  padding-left: 35%;
+}
+#h1{
+  background-color: rgb(248, 167, 167);
+}
+#rf{
+  background-color: rgb(232, 207, 255);
+  padding-left: 35%;
+  font-size: xx-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#fn{
+  background-color: aquamarine;
+  font-size: large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-left: 35%;
+}
+.container{
+  padding-left: 0%;
+  background-color: burlywood;
+}
